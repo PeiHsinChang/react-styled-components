@@ -1,0 +1,22 @@
+{
+  "name": "react-styled-components",
+  "version": "1.0.0",
+  "description": "react-styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeiHsinChang/react-styled-components.git"
+  },
+  "author": "Pei-Hsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeiHsinChang/react-styled-components/issues"
+  },
+  "homepage": "https://github.com/PeiHsinChang/react-styled-components#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
